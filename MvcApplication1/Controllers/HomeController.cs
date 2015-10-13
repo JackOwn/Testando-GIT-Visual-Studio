@@ -17,14 +17,14 @@ namespace MvcApplication1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your app description page. Teste";
+            ViewBag.Message = "Your app description page. TESTADMDAOOSDas";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contsad A D ASact page. teste te te";
 
             return View();
         }
