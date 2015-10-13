@@ -14,19 +14,49 @@ namespace MvcApplication1.Controllers
 
             return View();
         }
+        public ActionResult Co4nt6act()
+        {
+            ViewBag.Message = "Your contsad A D ASact page. teste te te";
 
+            return View();
+        }
+        public ActionResult Conta6ct()
+        {
+            ViewBag.Message = "Your contsad A D ASact page. teste te te";
+
+            return View();
+        }
         public ActionResult About()
         {
             ViewBag.Message = "Your app description page. TESTADMDAOOSDas";
 
             return View();
         }
-
-        public ActionResult Contact()
+        public ActionResult Contac4t()
         {
             ViewBag.Message = "Your contsad A D ASact page. teste te te";
 
             return View();
+        }
+
+        public ActionResult Contac3t()
+        {
+            ViewBag.Message = "Your contsad A D ASact page. teste te te";
+
+            return View();
+        }
+        public ActionResult Contact2()
+        {
+            ViewBag.Message = "Your contsad A D ASact page. teste te te";
+
+            return View();
+        }
+        public ActionResult Contact1()
+        {
+            ViewBag.Message = "Your contsad A D ASact page. teste te te";
+
+            return View();
+
         }
     }
 }
